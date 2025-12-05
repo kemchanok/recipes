@@ -4,6 +4,6 @@
 * chickpeas
 * olive oil
 * salt
-* lemon
+* lime
 * tahin
 * peper
